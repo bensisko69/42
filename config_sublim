@@ -1,0 +1,19 @@
+{
+	"color_scheme": "Packages/Theme - Phoenix/Color Scheme/Phoenix Dark Red.tmTheme",
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 24,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"open_files_in_new_window": false,
+	"rulers":
+	[
+		80
+	],
+	"theme": "Cobalt2.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"tab_completion": false
+}
